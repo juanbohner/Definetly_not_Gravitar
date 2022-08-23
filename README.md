@@ -5,7 +5,7 @@ This code was done as a final proyect for the subyect Algoritmos y Programacion 
 
 It was developed by Ramiro Mantero and myself.
 
-To play the game, first you will have to download SDL2. After that enter in the terminal an run:
+To play the game, first you will have to download SDL2. After that, open the terminal, go to the directory were you saved the files and run:
 $ make
 This will create many .o files and an executable file called Gravitar.
 After that just type $ ./Gravitar in the terminal to execute the program and enjoy the game.
